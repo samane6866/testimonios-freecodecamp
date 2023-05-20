@@ -1,5 +1,5 @@
-import reaact from "react";
-
+import react from "react";
+import "/home/samane/PIMEC2023/proyectos-free-code-camp/testimonios-freecodecamp/src/hojas-de-estilo/Testimonio.css";
 function Testimonio() {
   return (
     <div className="contenedor-testimonio">
